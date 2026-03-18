@@ -17,7 +17,7 @@ A simple and beginner-friendly responsive landing page built using HTML, CSS, an
 This project is created to help beginners understand how to build a basic landing page and improve their frontend skills.
 
 ## 📸 Preview
-![DevX Preview](./assets/preview.png)
+![DevX Preview](./assets/html-page.png)
 
 ## 🚀 Getting Started
 1. Clone the repository
